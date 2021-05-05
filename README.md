@@ -53,3 +53,9 @@ The analysis should not restrict to the technical specifications but include the
 * Anlayse the prices and optimize the price according to the wine quality.
 * Wine Quality and price suggestions
 
+## Conclusion
+
+* Analysis Findings
+* Machine Learning Model scores and validation
+* Price suggestions according to wine quality
+* suggestions 
