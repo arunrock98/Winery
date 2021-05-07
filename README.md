@@ -58,4 +58,4 @@ The analysis should not restrict to the technical specifications but include the
 * Analysis Findings
 * Machine Learning Model scores and validation
 * Price suggestions according to wine quality
-* suggestions 
+* suggestions
